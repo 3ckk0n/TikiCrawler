@@ -1,0 +1,60 @@
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.exe
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.deps.json
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.runtimeconfig.json
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.dll
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.pdb
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.AssemblyReference.cache
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfoInputs.cache
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfo.cs
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.CoreCompileInputs.cache
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCraw.E7EC6C31.Up2Date
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.dll
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\refint\TikiCrawler2024.dll
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.pdb
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.genruntimeconfig.cache
+C:\Users\Tin Trinh\source\repos\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\ref\TikiCrawler2024.dll
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.exe
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.deps.json
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.runtimeconfig.json
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.dll
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.pdb
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\WebDriver.dll
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.AssemblyReference.cache
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfoInputs.cache
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfo.cs
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.CoreCompileInputs.cache
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCraw.E7EC6C31.Up2Date
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.dll
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\refint\TikiCrawler2024.dll
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.pdb
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.genruntimeconfig.cache
+C:\Lab 3 - Web Crawler\1. Web Crawler Demo\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\ref\TikiCrawler2024.dll
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.exe
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.deps.json
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.runtimeconfig.json
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.dll
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\TikiCrawler2024.pdb
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\bin\Debug\net8.0\WebDriver.dll
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.AssemblyReference.cache
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfoInputs.cache
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.AssemblyInfo.cs
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCraw.E7EC6C31.Up2Date
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.dll
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\refint\TikiCrawler2024.dll
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.pdb
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\TikiCrawler2024.genruntimeconfig.cache
+D:\Tai Lieu Hoc Tap\Nam 4 ky 2\Thiết kế hệ thống TMĐT\TikiCrawler\TikiCrawler2024\TikiCrawler2024\obj\Debug\net8.0\ref\TikiCrawler2024.dll

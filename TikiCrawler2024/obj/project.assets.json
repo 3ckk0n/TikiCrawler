@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Selenium.WebDriver/4.30.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/135.0.7049.4200": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selenium.WebDriver/4.30.0": {
+      "sha512": "POEESh6f408SNst9kT+mf4g9zVahIWXjo+/8qkjUt8dNRllD+am2Fdj30j5b54kpRIx5Nz2b08AREYvaOyQQMA==",
+      "type": "package",
+      "path": "selenium.webdriver/4.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "icon.png",
+        "lib/net8.0/WebDriver.dll",
+        "lib/net8.0/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.30.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/135.0.7049.4200": {
+      "sha512": "jesl02IzPvgOTrlIZ9HWtKwdfbt5lkrtXo/9upGf1iDqptzttztgeFYN6a0/PHLZgVx8uK8aXaU+xYy0UKbz4w==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/135.0.7049.4200",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Selenium.WebDriver >= 4.30.0",
+      "Selenium.WebDriver.ChromeDriver >= 135.0.7049.4200"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dat Ech\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Tai Lieu Hoc Tap\\Nam 4 ky 2\\Thiết kế hệ thống TMĐT\\TikiCrawler\\TikiCrawler2024\\TikiCrawler2024\\TikiCrawler2024.csproj",
+      "projectName": "TikiCrawler2024",
+      "projectPath": "D:\\Tai Lieu Hoc Tap\\Nam 4 ky 2\\Thiết kế hệ thống TMĐT\\TikiCrawler\\TikiCrawler2024\\TikiCrawler2024\\TikiCrawler2024.csproj",
+      "packagesPath": "C:\\Users\\Dat Ech\\.nuget\\packages\\",
+      "outputPath": "D:\\Tai Lieu Hoc Tap\\Nam 4 ky 2\\Thiết kế hệ thống TMĐT\\TikiCrawler\\TikiCrawler2024\\TikiCrawler2024\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dat Ech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.30.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[135.0.7049.4200, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LTx6/XYXaVM=",
+  "success": true,
+  "projectFilePath": "D:\\Tai Lieu Hoc Tap\\Nam 4 ky 2\\Thiết kế hệ thống TMĐT\\TikiCrawler\\TikiCrawler2024\\TikiCrawler2024\\TikiCrawler2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dat Ech\\.nuget\\packages\\selenium.webdriver\\4.30.0\\selenium.webdriver.4.30.0.nupkg.sha512",
+    "C:\\Users\\Dat Ech\\.nuget\\packages\\selenium.webdriver.chromedriver\\135.0.7049.4200\\selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512"
+  ],
+  "logs": []
+}
